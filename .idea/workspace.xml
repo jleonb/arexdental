@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d8b1ae-43aa-45ac-8900-297147778e50" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/button-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/button-previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/1/imagen_j.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/3/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/3/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/3/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_1_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_2_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/4/imagen_3_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_1_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_2_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_3_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_4_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_5_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/5/imagen_6_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/a/imagen_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/a/imagen_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/b/imagen_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/b/imagen_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/c/imagen_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/dras_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/casos/dras_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cosmetica_dental1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cv_shirley.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicono.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fondo_50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fondo_75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fondo_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fondo_n75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fondo_titulo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/foto_shirley.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/foto_shirley_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/clareamiento.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/cosmetica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/endodoncia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/implantologia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/odontopediatria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/ortodoncia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/periodoncia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/rehabilitacion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iconos/rejuvenecimiento.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/imagen_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/imagen_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/imagen_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoarex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoarex_t.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mesoterapia/meso6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/miniimplantes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_1_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_2_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_3_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_4_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_5_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/odontologia_7_th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/placeholder-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/promociones.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recepcion_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recepcion_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recepcion_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recepcion_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/cirugiaoral.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/clareamientodental.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/cosmeticadental.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/endodoncia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/implantologia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/odontopediatria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/ortodoncia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/periodoncia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/rehabilitacionoral.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/servicios/rejuvenecimiento.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tile-d-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/settings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/form-1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/casos_clinicos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clinica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.codekit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contacto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/card-4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/flexisel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ionicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pattern-4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pattern.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/especialistas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Card-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Card-polygon-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Card-polygon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/blocs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demo-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demo-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demo-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/formHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexisel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lightbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/min/demo-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendors/ScrollToPlugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendors/TweenMax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendors/cash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendors/trianglify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/casos_clinicos.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/clinica.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/contacto.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/especialistas.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/footer.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/index.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/menu.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kit/servicios.kit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rejuvenecimiento.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servicios.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+    </list>
+    <ignored path="arex dental.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="arex dental" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="contacto.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contacto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto.kit" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kit/contacto.kit">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1380">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arex dental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arex dental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arex dental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arex dental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arex dental" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d8b1ae-43aa-45ac-8900-297147778e50" name="Default" comment="" />
+      <created>1461678147313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461678147313</updated>
+      <workItem from="1461678149546" duration="20000" />
+      <workItem from="1461678187392" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kit/contacto.kit">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
